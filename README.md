@@ -1,4 +1,6 @@
-<h1 align="center">Olá! Eu sou o Daniel Rodrigues 👋</h1>
+## Olá! Eu sou o Daniel Rodrigues 👋
+
+---
 
 <p align="center">
   Desenvolvedor Full Stack focado em criar soluções simples, escaláveis e com código limpo.
@@ -12,6 +14,19 @@
 - 🧱 Gosto de construir do zero: de APIs REST a microframeworks em Node.js
 - 🧪 Fascinado por arquitetura de software, injeção de dependência, design patterns e boas práticas
 - 🚀 Em constante evolução — sempre buscando aprender algo novo e me desafiar
+
+---
+
+---
+
+<div>
+  <a href="https://github.com/odanielchristopher/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=odanielchristopher" />
+  </a>
+  <a href="https://github.com/odanielchristopher/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=odanielchristopher&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
 
 ---
 
